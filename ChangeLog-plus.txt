@@ -1,9 +1,13 @@
-{"version_code":451210,"content":"
-<p>تحديث 1.50</p>
+{"version_code":451220,"content":"
+<p>تحديث 1.60</p>
 
-<li> تحديث تحديث تحديث تحديث  </li>
+<li> يرجى النقر على تحديث بالأسفل لان التحديث الحالي سينتهي بعد عشرة ايام  </li>
 <li> Update || Actualizar  </li>
-<li> انقر على كلمة تحديث في الاسفل لكي تقوم بتحديث الواتس اب </li>
+<li> تم اضافة ميزة النص التلقائي </li>
+<li> اضافة تأثيرات ثري دي للتنقل بين الشاشة الرئيسية و الحالة و المكالمات </li>
+<li> اصبح بأمكانك اضافة 1025 شخص في قائمة الرسالة الجماعية (البي سي) </li>
+<li> تمديد عمر الواتس اب وجعل عمره سنة
+ </li>
 <li> التحديث لنسخة الماركت 2.18.327</li>
 <li> يمكنك اضافة ملصقات للواتساب من تطبيقات الماركت </li>
 <li> ويمكنك ايضاً تحميل برنامج صنع ملصقات من اضافات عمار العواضي واضافتها للواتس اب </li>
@@ -19,6 +23,11 @@
 <li> اصلاح ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة </li>
 <li> إصلاحات اخرى </li>
 
+<li> Please click Update below because the current update will end in 10 days</li>
+<li> Add and return the automatic text feature (arrow)</li>
+<li> Add 3D effects to navigate between the main screen, the case and calls</li>
+<li> Your image added 1025 people in the list of the letter (BC)</li>
+<li> The whatsapp was life extended and making his year old</li>
 <li> New Base Updated to 2.18.327</li>
 <li> Added Now You can Add Stickers From PlayStore to any Package </li>
 <li> Added New Fonts </li>
@@ -34,7 +43,8 @@
 <li> Fixed Showing View Messages sent By when Click on More Contacts in Group Profile </li>
 <li> Many Other Fixes</li>
 
-","url":"https://www.smart5hone.com/2019/01/anwhatsapp-v1.50.html"
+","url":"https://www.smart5hone.com/2019/03/anwhatsapp-v1.60.html"
 }
+
 
 
