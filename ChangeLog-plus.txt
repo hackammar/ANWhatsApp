@@ -1,50 +1,49 @@
-{"version_code":451221,"content":"
-<p>انستقرام عمار العواضي</p>
+{"version_code":451220,"content":"
+<p>تحديث 1.60</p>
 
-<li> تم بعون الله تطوير انستقرام عمار العواضي و اضافة افضل المميزات الرائعة والعملاقة</li>
-<li> ANInstagram  </li>
-<li>مميزات انستقرام عمار العواضي ANInstagram </li>
-<li> إمكانية تحميل الصور والفيديوهات </li>
-<li>يمكنك تحميل الصور والفيديوهات من الستوري</li>
-<li>يمكنك إخفاء انك شاهدت القصص(الستوري) من الاضافات والخصائص ثم الخصوصية
+<li> يرجى النقر على تحديث بالأسفل لان التحديث الحالي سينتهي بعد عشرة ايام  </li>
+<li> Update || Actualizar  </li>
+<li> تم اضافة ميزة النص التلقائي </li>
+<li> اضافة تأثيرات ثري دي للتنقل بين الشاشة الرئيسية و الحالة و المكالمات </li>
+<li> اصبح بأمكانك اضافة 1025 شخص في قائمة الرسالة الجماعية (البي سي) </li>
+<li> تمديد عمر الواتس اب وجعل عمره سنة
  </li>
-<li> إمكانية معاينة الصور وتشغيل الفيديوهات بالمشغل الخاص بك بدون حفظها بجهازك</li>
-<li> إمكانية مشاركة/نسخ روابط الصور والفيديوهات</li>
-<li> إضافة العديد من الخيارات لتغيير ثيم (الوان) شاشة المحادثات والمحادثات</li>
-<li> يمكنك نسخ التعليقات</li>
-<li> يمكنك ترجمة التعليقات الى اللغة الخاصة بك يمكنك عمل زووم (تكبير/تصغير) للصور</li>
-<li>يمكنك عمل زووم (تكبير/تصغير) للصور الشخصية وصور المنشورات من خلال الضغط المطول عليها</li>
-<li>دعم الضغط على الروابط في البرنامج بشكل كامل(المنشورات-التعليقات-داخل المحادثة)</li>
-<li>إضافة خيار لتشغيل الصوت مع الفيديو بشكل تلقائي </li>
+<li> التحديث لنسخة الماركت 2.18.327</li>
+<li> يمكنك اضافة ملصقات للواتساب من تطبيقات الماركت </li>
+<li> ويمكنك ايضاً تحميل برنامج صنع ملصقات من اضافات عمار العواضي واضافتها للواتس اب </li>
+<li> إضافة خطوط جديدة </li>
+<li> إضافة ايقونات جديدة </li>
+<li> إضافة حالات جديدة </li>
+<li> إضافة الخيار 6.21 لتعطيل فتح المحادثات المخفية بعد الضغط على كلمة WhatsApp </li>
+<li> يمكنك ترتيب عرض الرسائل حسب الاقدم او الاحد بعد عرض الرسائل المرسلة من قبل اي شخص في المجموعة </li>
+<li> يمكنك تثبيت ٣٠ محادثة بدلا من ٢٥ محادثة </li>
 <li> إضافة نافذة تأكيد عند الاتصال بشخص ما من داخل المجموعة </li>
 <li> اصلاح الايقاف الاجباري عند اختيار اكثر من شخص في قائمة الرد التلقائي و الرسائل المجدولة </li>
-<li>يمكنك نسخ البايو (الوصف)</li>
-<li> يمكنك معرفة من يتابعك(ادخل الملف الشخص لاي شخص ستجد كلمة يتابعك ان كان يتابعك) </li>
-<li>تفعيل ميزة حالة النشاط (آخر ظهور) لمعرفة تواجد الاصدقاء المتصلين في البرنامج </li>
-<li>العديد من المزايا الاخرى وانتضرونا بتحديث جديد للواتس اب بمميزات عملاقة ومذهلة جداً </li>
+<li> اصلاح خيار تغيير اللغة في اصدار اوريو واعلى </li>
+<li> اصلاح ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة </li>
+<li> إصلاحات اخرى </li>
 
-<li> ANInstagram Ammar ALawadi</li>
-<li> What features ANInstagram :</li>
-<li> Ability to upload pictures and videos</li>
-<li> You can download pictures and videos from the Storey</li>
-<li> You can hide that you have seen the stories (stories) of the additions and characteristics and then privacy</li>
-<li> Ability to preview images and play videos in your player without saving them to your device</li>
-<li> Ability to share / copy image and video links</li>
-<li> Add several options to change the theme (colors) of the conversations and conversations screen</li>
-<li> You can copy comments </li>
-<li> You can translate comments into your own language</li>
-<li> Fully support the compression of links in the program (publications - comments - inside the conversation)</li>
-<li> You can zoom in on your personal photos and photos of publications with long press</li>
+<li> Please click Update below because the current update will end in 10 days</li>
+<li> Add and return the automatic text feature (arrow)</li>
+<li> Add 3D effects to navigate between the main screen, the case and calls</li>
+<li> Your image added 1025 people in the list of the letter (BC)</li>
+<li> The whatsapp was life extended and making his year old</li>
+<li> New Base Updated to 2.18.327</li>
+<li> Added Now You can Add Stickers From PlayStore to any Package </li>
+<li> Added New Fonts </li>
+<li> Added New Launcher Icons </li>
+<li> Add a new cases </li>
+<li> And you can also download the program making posters of anmods and add them to whatsapp </li>
+<li> Added Option to Disable click on Header for Hidden Chats (Mod 6.21) </li>
 <li> Added Now You can Sort Messages Sent By (Newest/Oldest) </li>
-<li> Add option to play audio with video automatically</li>
-<li> You can copy Bayo (description) You can find out who follows you (Enter the profile of the person you will find the word that follows you if he follows you)</li>
-<li> Added Video Calls</li>
-<li> Now can Add Voice Note in Story</li>
-<li> You can make a chat favourite </li>
-<li> Now can Add Tag in Story</li>
+<li> Added Confirmation Dialog when Call in Group Chat </li>
+<li> Increased Pin Chats from 25 to 30 </li>
+<li> Fixed Force Close when Select more than 2 contacts in Auto Reply/Message Scheduler </li>
+<li> Fixed Change App Language in Android Oreo and Pie </li>
+<li> Fixed Showing View Messages sent By when Click on More Contacts in Group Profile </li>
+<li> Many Other Fixes</li>
 
-","url":"https://www.smart5hone.com/2019/05/aninstagram.html"
+","url":"https://www.smart5hone.com/2019/03/anwhatsapp-v1.60.html"
 }
-
 
 
