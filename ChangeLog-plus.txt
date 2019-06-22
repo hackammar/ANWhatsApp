@@ -71,7 +71,7 @@
 <li>[fixed] Crash when search in themes</li>
 <li>Many More Fixes</li>
 
-","url":"https://www.smart5hone.com/2019/05/anwhatsapp-v1.70.html"
+","url":"https://www.smart5hone.com/2019/06/anwhatsapp-1.70.html"
 }
 
 
