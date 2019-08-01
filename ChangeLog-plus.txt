@@ -1,4 +1,4 @@
-{"version_code":451222,"content":"
+{"version_code":451224,"content":"
 <p>تحديث 1.70</p>
 
 <li> تم تمديد عمر الواتساب</li>
