@@ -1,9 +1,9 @@
 {"version_code":451222,"content":"
 <p>تحديث 1.70</p>
 
-<li> تحديث اجباري لكي بايتم حظر رقمك</li>
-<li>[[[نسخة ضد الحظر المؤقت والحظر الدائم]]]</li>
-<li>Anti-Ban [[[Copy against the interim blocking and permanent banner]]]</li>
+<li> تم تمديد عمر الواتساب</li>
+
+
 
 <li>الاضافات :-</li>
 
@@ -71,7 +71,7 @@
 <li>[fixed] Crash when search in themes</li>
 <li>Many More Fixes</li>
 
-","url":"https://www.smart5hone.com/2019/06/anwhatsapp-1.70.html"
+","url":"https://www.smart5hone.com/2019/08/anwhatsapp-v1.80.html"
 }
 
 
