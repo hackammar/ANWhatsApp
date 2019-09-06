@@ -1,75 +1,47 @@
-{"version_code":451224,"content":"
-<p>تحديث 1.80</p>
+{"version_code":451228,"content":"
+<p>تحديث 2.00</p>
 
-<li> تم تمديد عمر الواتساب</li>
 
 <li>الاضافات :-</li>
 
-<li>[إضافة] الفيسات الجديدة</li>
-<li>[تغيير] شكل الواتساب وجعله مميز وجذاب</li>
-<li>[إضافة] ميزة اضهار صحين القراءة فقط بعد الرد </li>
-<li>[يمكنك] اضافة 1024 شخص لقائمة الرسائل الجماعية لتفعيل الميزة ادخل على اضافات عمار العواضي</li>
-<li>[يمكنك] اضافة 1024 عضو للمجموعات لتفعيل الميزة ادخل على اضافات عمار العواضي</li>
-<li> ويمكنك ايضاً تحميل برنامج صنع ملصقات من اضافات عمار العواضي واضافتها للواتس اب </li>
-<li>[إضافة] ميزة تغيير خلفية او لون او مزج عدة اللوان الدردشة والحالة والمكالمات بشكل خرافي لتفعيل الميزة ادخل على اضافات عمار العواضي</li>
-<li>[إضافة] ميزة تاثيرات التنقل بين الدردشات والحالة والمكالمة بدون مشاكل لتفعيل الميزة ادخل على اضافات عمار العواضي</li>
-<li>[إضافة] ميزة تغيير خلفية او لون او مزج عدة اللوان القفل الخاص بالواتساب بشكل خرافي لتفعيل الميزة ادخل على اضافات عمار العواضي</li>
-<li>[تحسين] ميزة تبديل 10 حسابات في واتساب مع تحسين شرح تبديل 10 حسابات لتفعيل الميزة ادخل على اضافات عمار العواضي</li>
-<li>[إضافة] حالات مميزة بشكل خرافي بقسم اضافات عمار العواضي</li>
-<li>[إضافة] ميزة تعدد الدردشات لكي تستطيع فتح كل دردشة على شكل كرت</li>
-<li>[إضافة] ميزة تغيير ستايل ايقونة الارفاق مازالت تحت التجربة</li>
-<li>[إضافة] ميزة النص التفجيري مازالت تحت التجربة</li>
-<li>[يمكنك] عمل مكالمة جماعية ما اعضاء المجموعات</li>
-<li>[يمكنك] اذا قمت بتحديد رسالة مرسلة في المجموعة يمكنك الرد على مرسلها بشكل منفرد في الخاص</li>
+<li>*[إضافة] العديد من المزايا المميزة والمفضلة للجميع<li/>
 
-<li>الاصلاحات :-</li>
+<li>*المزيد من الحماية ضد الحظر<li/>
 
-<li>[اصلاح] مشكلة الانهيار بعد تغيير الثيمات</li>
-<li>[اصلاح] مشكلة تغيير الخطوط</li>
-<li>[اصلاح] مشكلة تأثيرات التنقل</li>
-<li>[اصلاح] مشكلة ظهور عداد الرسائل المخفية</li>
-<li>[اصلاح] لون الدفعات في شاشة المحادثة</li>
-<li>[اصلاح] الانهيار عند فتح محادثة في بعض الاصدارات</li>
-<li>[اصلاح] الانهيار عند الدخول للرسائل المميزة بنجمة</li>
-<li>[اصلاح] الانهيار عند محاولة البحث عن ثيمات</li>
-<li>[اصلاح] اضافة الملصقات من قوقل بلاي</li>
-<li>[إصلاحات] اخرى</li>
+<li>*[تغيير] شكل الواتساب وجعله مميز وجذاب جداً<li/>
 
-<p>Update v1.80</p>
+<li>*[يمكنك] رفع مدة الحالة الى 7 دقائق للتفعيل(اضافات عمار العواضي)<li/>
 
-<li>Additions: -</li>
+<li>*[إضافة] ميزة البصمة لتفيل الميزة {الاعدادات/الحساب/الخصوصية/البصمة}<li/>
 
-<li>[Change] ANWhatsApp format and make it distinguished and attractive</li>
-<li>[Add] new instances</li>
-<li>[Feature] Disney Department Just Read after Reply</li>
-<li>[You may] You can add 1024 people for the collective messages list to activate the feature entered on the additions of ANMods {ANsetting}</li>
-<li>[You may] Add 1024 Member groups for Activity Features Enter the additions of ANMods {ANsetting}</li>
-<li>[Add] Display change feature, color or mix multiple tanker, chat, case and calls to the activation feature to enter the additions of ANMods {ANsetting}.</li>
-<li>[Add] Display change feature or color Mixing Links Language lock to your accounts to activate the feature entered on the additions of ANMods {ANsetting}</li>
-<li>[Add] Feature Features Movements between chats, Condition and Call without problems for activating the feature entered on the additions of ANMods {ANsetting}</li>
-<li>[Improvement] Adaptation feature 10 accounts in WhatsApps with Explanation Explanation 10 Excceptions to activate the feature entered on the additions of ANMods {ANsetting}</li>
-<li>[Add] Cases are preferred in the private section of the additions of ANMods {ANsetting}</li>
-<li>[Add] Feature Multiple Chats to Enable All Chat in Cat Shape</li>
-<li>[Add] Change Change String of the Conversation Whether the trial is not yet under the experience.</li>
-<li>[Add] The disparity feature is still under experiment</li>
-<li>[You may] A group calls what group members</li>
-<li>[You may] if you select a message sent in the group you can reply to their sender in a single index in your</li>
+<li>*[إضافة] ميزة اضهار صحين القراءة فقط بعد الرد للتفعيل(لاعدادات الخصوصية)<li/>
 
-<li>Fixes: -</li>
+<li>*[يمكنك] منع حذف الحالة(مشاهدة الحالة المحذوفة)للتفعيل(لاعدادات الخصوصية)<li/>
 
-<li>[fixed] problem of collapse after changing themes</li>
-<li>[fixed] problem change the fonts</li>
-<li>[fixed] Problems of navigation</li>
-<li>[fixed] problem hidden messages</li>
-<li>[fixed] Color Payments in Conversation Screen</li>
-<li>[fixed] Collapse when you open a conversation in some of the departments</li>
-<li>[fixed] Collapse when entering the characteristic messages</li>
-<li>[fixed] collapse when trying to search for themes</li>
-<li>[fixed] Added Stickers From Google Play Apps</li>
-<li>[fixed] Crash when search in themes</li>
-<li>Many More Fixes</li>
+<li>*[يمكنك] منع حذف الرسالة(مشاهدة الرسالة المحذوفة)للتفعيل(لاعدادات الخصوصية)<li/>
 
-","url":"https://www.smart5hone.com/2019/08/anwhatsapp-v1.80.html"
+<li>*[إضافة] المزيد من الخطوط الرائعة للتفعيل(اضافات عمار العواضي)<li/>
+
+<li>*[إضافة] المزيد من الثيمات الرائعة للتفعيل(اضافات عمار العواضي)<li/>
+
+<li>*[إضافة] اشعار عند تغيير الصورة الشخصية للتفعيل(اضافات عمار العواضي)<li/>
+
+<li>*[تحسين] ميزة تبديل 10 حسابات في واتساب مع تحسين شرح تبديل 10 حسابات للتفعيل(اضافات عمار العواضي)<li/>
+
+<li>*[إضافة] ميزة تغيير ستايل ايقونات الارفاق بشكل خرافي للتفعيل(اضافات عمار العواضي)<li/>
+
+<li>*[إضافة] ميزة تغيير شكل صندوق الارسال للتفعيل(اضافات عمار العواضي)<li/>
+
+<li>*[إضافة] ميزة تغيير الوان التطبيق بشكل كامل وايقونات جديدة رائعة<li/>
+
+<li>*[إضافة] ميزة اخفاء عبارة الرسالة المحولة<li/>
+
+<li>*[يمكنك] ميزة اخفاء الحالات غير المهمة<li/>
+
+<li>*[يمكنك] اخفاء التاريخ والاسم عند تحويل رسالتين او اكثر<li/>
+
+<li>*[إضافة] العديد والعديد من المزايا<li/>
+
+","url":"https://www.smart5hone.com/2019/09/anwhatsapp-v2.00.html"
 }
-
 
